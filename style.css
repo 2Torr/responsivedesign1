@@ -1,0 +1,45 @@
+body {
+  /* make space for static nav bar */
+  min-height: 75rem;
+  padding-top: 4.5rem;
+  background-color: lightblue;
+}
+
+h1{
+  color: darkblue;
+  font-family: garamond;
+}
+
+h2{
+  color:white;
+  font-size: 27pt;
+  font-family:georgia;
+
+}
+h3{
+  color: lightskyblue;
+}
+h4{
+  font-family:georgia;
+}
+p{
+    font-family:georgia;
+
+}
+ style
+      .German.tiff {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      .navbar {
+    background-color: #aaa2f2; /* Change this color to your desired color */
+    padding: 10px;}
+
+small 
+{ color: navy;
+  background-color: white;
+ }
